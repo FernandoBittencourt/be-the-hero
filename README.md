@@ -1,4 +1,4 @@
-# My Hero
+# Be The Hero
 Project developed in the "Semana OmniStack 11.0" course by Rocketseat.
 
 Website: https://rocketseat.com.br/
